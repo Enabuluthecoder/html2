@@ -1,0 +1,4 @@
+step 1: download and install git
+step 2: enter cmd prompt and type git -v(to see version of Git)
+creat a folder on desktop or any place of your choice
+note that you can open vscode from cmd prompt by typing folder name and typing code
